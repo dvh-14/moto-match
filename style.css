@@ -65,7 +65,12 @@ button{
   border:1px solid var(--border);
   text-align:left;
   padding:14px;
+  color: var(--text);  
 }
+.pick span {
+  color: var(--text);
+}
+
 
 .tag{
   display:inline-block;
